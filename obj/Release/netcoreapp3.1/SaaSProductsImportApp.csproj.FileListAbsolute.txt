@@ -1,0 +1,16 @@
+D:\Projects\Doxin\bin\Release\netcoreapp3.1\SaaSProductsImportApp.exe
+D:\Projects\Doxin\bin\Release\netcoreapp3.1\SaaSProductsImportApp.deps.json
+D:\Projects\Doxin\bin\Release\netcoreapp3.1\SaaSProductsImportApp.runtimeconfig.json
+D:\Projects\Doxin\bin\Release\netcoreapp3.1\SaaSProductsImportApp.runtimeconfig.dev.json
+D:\Projects\Doxin\bin\Release\netcoreapp3.1\SaaSProductsImportApp.dll
+D:\Projects\Doxin\bin\Release\netcoreapp3.1\SaaSProductsImportApp.pdb
+D:\Projects\Doxin\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Doxin\bin\Release\netcoreapp3.1\YamlDotNet.dll
+D:\Projects\Doxin\obj\Release\netcoreapp3.1\SaaSProductsImportApp.csprojAssemblyReference.cache
+D:\Projects\Doxin\obj\Release\netcoreapp3.1\SaaSProductsImportApp.AssemblyInfoInputs.cache
+D:\Projects\Doxin\obj\Release\netcoreapp3.1\SaaSProductsImportApp.AssemblyInfo.cs
+D:\Projects\Doxin\obj\Release\netcoreapp3.1\SaaSProductsImportApp.csproj.CoreCompileInputs.cache
+D:\Projects\Doxin\obj\Release\netcoreapp3.1\SaaSProductsImportApp.csproj.CopyComplete
+D:\Projects\Doxin\obj\Release\netcoreapp3.1\SaaSProductsImportApp.dll
+D:\Projects\Doxin\obj\Release\netcoreapp3.1\SaaSProductsImportApp.pdb
+D:\Projects\Doxin\obj\Release\netcoreapp3.1\SaaSProductsImportApp.genruntimeconfig.cache
